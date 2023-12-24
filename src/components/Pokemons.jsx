@@ -6,7 +6,7 @@ import PokemonInfo from './PokemonInfo Modal/PokemonInfo'
 const Pokemons = ({pokemons}) => {
 
 
-  const [infoOpen, setInfoOpen] = useState(true);
+  const [infoOpen, setInfoOpen] = useState(false);
   const [pokemonDetails,setPokemonDetails] = useState({})
   const handleKnowMore = (pokemonDetails) => {
     console.log(pokemonDetails)

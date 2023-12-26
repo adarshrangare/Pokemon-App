@@ -19,6 +19,12 @@
   
 }
 
+@media (max-width:700px){
+    .expanded-overlay{
+        flex-direction: column;
+    }
+}
+
 .backdrop{
     width: 100vw;
     height: 100vh;

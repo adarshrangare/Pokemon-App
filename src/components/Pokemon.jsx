@@ -23,7 +23,7 @@ const Pokemon = ({name,url,handleKnowMore}) => {
                 <h3> {name.toUpperCase()} </h3>
                 <small>Type: {pokemonDetails?.type}</small>
                 <div className={"detail-wrapper"}>
-                  <button className={pokemonDetails?.type} onClick={handleClick}>Know more...</button>
+                  <button className={"btn-"+pokemonDetails?.type} onClick={handleClick}>Know more...</button>
                   
                 </div>
                 

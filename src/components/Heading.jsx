@@ -1,17 +1,18 @@
 import React from "react";
 import './Heading.css'
 const Heading = () => {
-  return (
+  return ( <>
     <div id="section">
       <div className="content">
-        <h2>Pokemon KingDom</h2>
-        <h2>Pokemon KingDom</h2>
+        <h2>Pokemon</h2>
+        <h2>Pokemon</h2>
       </div>
-      {/* <div className="content2">
+      <div className="content2">
         <h2>KingDom</h2>
         <h2>KingDom</h2>
-      </div> */}
+      </div>
     </div>
+    </>
   );
 };
 

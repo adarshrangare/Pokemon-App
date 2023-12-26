@@ -48,6 +48,8 @@
     width: 100%;
     /* z-index: 2; */
     /* background: initial; */
+    justify-content: center;
+    align-items: center;
   }
   .detail-wrapper button {
     color: rgb(22, 22, 22);
@@ -61,6 +63,7 @@
     /* background: initial; */
     /* background-position: fit; */
     background-position: center;
+    width: 80%;
   }
   
   .load-more {

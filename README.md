@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Pokemon KingDom App 
+ - This Project is Provided by Newton School
+ - Here is Hosted Link of Project: https://pokemon-app-five-drab.vercel.app/[https://pokemon-app-five-drab.vercel.app/]
+ - Here is the Project Task Link: https://learn.newtonschool.co/n/bxrl0vn9q79a/preview
